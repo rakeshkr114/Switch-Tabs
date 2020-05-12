@@ -21,7 +21,7 @@
       "128": "icon.png"
    },
   "commands": {
-        "toggle": {
+        "toggle-feature-foo": {
             "suggested_key": {
               "default": "Alt+Q",
               "mac": "Command+Q"
